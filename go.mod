@@ -1,4 +1,4 @@
-module github.com/freddyli/go-substrate-rpc-client/v4
+module github.com/freddyli7/go-substrate-rpc-client/v4
 
 go 1.21
 
