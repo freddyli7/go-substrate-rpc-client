@@ -1,9 +1,9 @@
 package generic
 
 import (
-	"github.com/centrifuge/go-substrate-rpc-client/v4/client"
-	libErr "github.com/centrifuge/go-substrate-rpc-client/v4/error"
-	"github.com/centrifuge/go-substrate-rpc-client/v4/types"
+	"github.com/freddyli7/go-substrate-rpc-client/v4/client"
+	libErr "github.com/freddyli7/go-substrate-rpc-client/v4/error"
+	"github.com/freddyli7/go-substrate-rpc-client/v4/types"
 )
 
 const (

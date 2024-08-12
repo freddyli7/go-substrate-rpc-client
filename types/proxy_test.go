@@ -4,9 +4,9 @@ import (
 	"math/big"
 	"testing"
 
-	. "github.com/centrifuge/go-substrate-rpc-client/v4/types"
-	. "github.com/centrifuge/go-substrate-rpc-client/v4/types/codec"
-	. "github.com/centrifuge/go-substrate-rpc-client/v4/types/test_utils"
+	. "github.com/freddyli7/go-substrate-rpc-client/v4/types"
+	. "github.com/freddyli7/go-substrate-rpc-client/v4/types/codec"
+	. "github.com/freddyli7/go-substrate-rpc-client/v4/types/test_utils"
 )
 
 var (

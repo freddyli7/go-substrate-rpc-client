@@ -6,9 +6,9 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/centrifuge/go-substrate-rpc-client/v4/registry"
-	"github.com/centrifuge/go-substrate-rpc-client/v4/scale"
-	"github.com/centrifuge/go-substrate-rpc-client/v4/types"
+	"github.com/freddyli7/go-substrate-rpc-client/v4/registry"
+	"github.com/freddyli7/go-substrate-rpc-client/v4/scale"
+	"github.com/freddyli7/go-substrate-rpc-client/v4/types"
 	"github.com/stretchr/testify/assert"
 )
 
